@@ -8,7 +8,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/yourbask/trojan/master/troja
 
 curl -O https://raw.githubusercontent.com/yourbask/trojan/master/trojan.sh && chmod  x trojan.sh && ./trojan.sh
 
-wget --no-check-certificate https://raw.githubusercontent.com/yourbask/trojan/master/trojan.sh && chmod +x Trojan.sh && ./Trojan.sh
+wget --no-check-certificate https://raw.githubusercontent.com/yourbask/trojan/master/trojan.sh && chmod +x trojan.sh && ./trojan.sh
 
 ====================================
 
